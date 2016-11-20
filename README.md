@@ -4,7 +4,7 @@
 </p>
 
 # Requirements
-This theme is need [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) to be used.
+This theme requires [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
 
 # Installation
 Donwload the theme
