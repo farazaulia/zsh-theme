@@ -1,10 +1,14 @@
+Faul is an [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) shell theme that gives you a comprehensive overview of the branch you're working on and the status of your repository throughout the development process without cluttering your terminal.
+
 # Preview
 <p align="center">
 <img src="https://raw.githubusercontent.com/farazaulia/zsh-theme/master/preview.gif" alt="demo" />
 </p>
 
-# Requirements
-This theme requires [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
+# Features
+* Timestamp
+* Current directory
+* Git status
 
 # Installation
 Donwload the theme
