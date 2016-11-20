@@ -1,5 +1,6 @@
-<p align="center">Preview
-![Faul](preview.gif)
+<p align="center">
+<b>Preview</b>
+<img src="https://raw.githubusercontent.com/farazaulia/zsh-theme/master/preview.gif" alt="demo" />
 </p>
 
 # Requirements
